@@ -51,9 +51,7 @@ include:
 header:
   image: "/assets/images/MPA1.jpg"  # 确保这里的路径正确
   caption: "Welcome to My Blog"  # 这将显示在图片上方的文字
-  caption_class: "caption"  # 用于控制标题样式（可选）
-  height: "auto"  # 将 height 设置为自动调整，确保图片全部显示
-  min_height: "6000px"  # 设置最小高度，确保图片足够大显示全屏
+
 
 # Plugins (previously gems:)
 plugins:
