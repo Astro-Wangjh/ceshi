@@ -49,7 +49,7 @@ include:
 #   - vendor/ruby/
 
 header:
-  image: "/assets/images/bio-photo.jpg"  # 确保这里的路径正确
+  image: "/assets/images/MPA1.jpg"  # 确保这里的路径正确
   caption: "Welcome to My Blog"  # 这将显示在图片上方的文字
   caption_class: "caption"  # 用于控制标题样式（可选）
 
