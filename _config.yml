@@ -98,7 +98,7 @@ defaults:
   # _posts
   - scope:
       path: "assets/css"
-      type: posts
+      type: css
     values:
       layout: splash
       author_profile: true
