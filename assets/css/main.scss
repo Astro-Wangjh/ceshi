@@ -1,1 +1,17 @@
+---
+---
 
+/* 自定义样式文件 */
+header.masthead {
+  background-size: contain !important;  /* 确保图片按比例缩放，完整显示 */
+  background-repeat: no-repeat;  /* 防止图片重复显示 */
+  background-position: center;  /* 确保图片居中显示 */
+  height: auto !important;  /* 自动调整图片高度 */
+  min-height: 600px;  /* 设置最小高度，确保显示足够的图片部分 */
+}
+
+header.masthead img {
+  object-fit: contain;  /* 图片按比例缩放，完整显示 */
+  width: 100%;
+  height: auto;
+}
