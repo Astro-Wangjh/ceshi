@@ -97,8 +97,8 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: "assets/css"
-      type: css
+      path: ""
+      type: post
     values:
       layout: splash
       author_profile: true
