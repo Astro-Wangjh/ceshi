@@ -97,7 +97,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: " "
       type: post
     values:
       layout: splash
